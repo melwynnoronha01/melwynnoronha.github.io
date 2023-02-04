@@ -431,7 +431,7 @@ nav .fa-solid{
     }
 
     nav .fa-solid{
-        display: block;
+        display: hidden;
         font-size: 25px;
     }
 
